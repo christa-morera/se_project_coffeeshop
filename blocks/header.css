@@ -6,6 +6,7 @@
   position: relative;
   display: flex;
   flex-direction: column;
+  z-index: 0;
 }
 
 .header__title {
@@ -41,6 +42,7 @@
   top: 124px;
   right: 5px;
   left: auto;
+  z-index: -1;
 }
 
 .header__footer {

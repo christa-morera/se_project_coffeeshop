@@ -28,5 +28,5 @@
 
 .nav__link:hover {
   color: #2f80ed;
-  opacity: 50%;
+  opacity: 0.5;
 }
