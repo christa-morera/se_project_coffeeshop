@@ -15,3 +15,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 - Add a few more animations in general so it feels more cohesive. Maybe an animated circle in the reservation section.
 - Add the option of ordering online from the menu in the recipes section.
+https://christa-morera.github.io/se_project_coffeeshop/
